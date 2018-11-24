@@ -1,4 +1,4 @@
-<h2> Coursework in databases based on the game MassEffect. </h2>
+<h2> Coursework in Database Designing  based on the game MassEffect. </h2>
 
 Mass Effect is a computer game in the genre of role-playing action movie, developed by BioWare and released by Microsoft Game Studios in 2007, the first part of the Mass Effect series. ( https://en.wikipedia.org/wiki/Mass_Effect_(video_game) )
 

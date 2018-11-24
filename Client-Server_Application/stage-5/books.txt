@@ -1,0 +1,2 @@
+1
+{"bookName":"Bookq","bookJanr":"EZOTERIC","bookCoordinates":{"x":10,"y":10},"bookColor":"RED","creatingTime":0,"words":[]}

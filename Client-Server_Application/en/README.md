@@ -2,13 +2,13 @@
 
 The application was developed consistently.
 
-<h4> Stage one: Creating an object model - based on a fragment of the story. </h4>
+<h4> Stage One: Creating an object model - based on a fragment of the story. </h4>
 
 The object model, from the story, includes - a university, a university library, a book, a book in the library, people, a person’s memory (memorized words and book titles).
 
 In general, we had universities, libraries and people. In some universities there were libraries. People could borrow books from libraries, but for this they needed to know the key to the book (password from the book). People could bring their own books to libraries, and if books didn’t have a secret key, the library itself could give the book a key. Also, people could read and remember the contents of the book, the title of the book, the key to the book (for a while, as with human memory).
 
-<h4> Stage two: handling artificial situations. </h4>
+<h4> Stage Two: Handling artificial situations. </h4>
 
 In this stage, we looked at various exceptions and processed them.
 

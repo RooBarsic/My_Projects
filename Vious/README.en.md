@@ -23,7 +23,7 @@ The main feature of Vious is that it simplifies and facilitates the study of Eng
 4) #compress - compresses a file with words - deleting similar words, and saves only unique words to the resulting file.
 5) #new_from_file - takes a file with new words (format "first - number of words, then all words in English. At the end - translation of words into Russian") and adds those words - which Vious does not have in the database. Example file https://github.com/RooBarsic/My_Projects/blob/master/Vious/Vious-2.0/new_words.txt
 6) #new - to add new words. First enter the number of words to be added, then the words themselves with the translation.
-7) #Alisa_learn - adding new words, while you do not translate words. Words are translated using https://translate.yandex.ru/, and you confirm - whether you want to add such a translation. This command has been added to Vious-3.0.
+7) #Alisa_learn - adding new words, while you do not translate words. Words are translated using https://translate.yandex.ru/ (Translated by Yandex.Translate service http://translate.yandex.ru/.), And you confirm whether you want to add such a translation. This command has been added to Vious-3.0.
 8) #learn - switch to learning mode. In this mode, there are two groups of words - studied and not studied.
 There are three commands in the training mode:
 
@@ -41,6 +41,9 @@ The application is under development.
 Expected version with a graphical interface and improved learning algorithms.
 
 <h3> Usage Tips: </ h3>
-Use frequent and short workouts, for example, 15-20 minutes in the morning and at night (as well as in other free time).
+1) Use frequent and short workouts, for example, 15-20 minutes in the morning and at night (as well as in other free time).
+2) Add movie subtitles - that you want to watch.
 
-Add movie subtitles that you want to watch.
+<h3> Technologies: </ h3>
+The program is written in the Java programming language. Uses yandex.translate API, and work with files.
+Translated by Yandex.Translate service http://translate.yandex.ru/.

@@ -46,4 +46,5 @@ Expected version with a graphical interface and improved learning algorithms.
 
 <h3> Technologies: </h3>
 The program is written in the Java programming language. Uses yandex.translate API, and work with files.
+
 Translated by Yandex.Translate service http://translate.yandex.ru/.

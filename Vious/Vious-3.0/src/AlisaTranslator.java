@@ -90,7 +90,8 @@ public class AlisaTranslator {
     }
 
     private static String translate(String lang, String input) throws IOException {
-        String urlStr = "https://translate.yandex.net/api/v1.5/tr.json/translate?key=trnsl.1.1.20181230T200250Z.9595ea94b6fbcd4b.8c5e2a63c1d01bfba398850cee06b5d566060a1c";
+        String key = "";
+        String urlStr = "https://translate.yandex.net/api/v1.5/tr.json/translate?" + key;
         URL urlObj = new URL(urlStr);
         HttpsURLConnection connection = (HttpsURLConnection)urlObj.openConnection();
         connection.setRequestMethod("POST");

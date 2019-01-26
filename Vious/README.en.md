@@ -1,8 +1,8 @@
-<h2> Vious - a virtual assistant for learning English </ h2>
+<h2> Vious - a virtual assistant for learning English </h2>
 
 Vious is an application designed to help people learn English.
 
-<h3> Short description of the features. </ h3>
+<h3> Short description of the features. </h3>
 
 You can add those words to Vious - that you want to study, the program will store them in its memory (locally) and use it for further work.
 
@@ -10,13 +10,13 @@ There is a learning mode - to study the added words, and to repeat the previousl
 
 The main feature of Vious is that it simplifies and facilitates the study of English through video and audio materials with subtitles. For example on movies, TV shows, cartoons, etc. . (more in the extended description)
 
-<h3> News. </ h3>
+<h3> News. </h3>
 
 .......... Vious-2.0: The first version of Vious in console mode.
 
 01/26/2019 Vious-3.0: added the possibility of online translation using https://translate.yandex.ru/
 
-<h3> Vious has various commands for working: </ h3>
+<h3> Vious has various commands for working: </h3>
 1) #exit - the command is intended to exit the program
 2) #stats - displays information about the total number of words, number of words learned, number of words not studied
 3) #parse - takes a file with subtitles, scans a file - writing individual words into the resulting file.
@@ -33,17 +33,17 @@ There are three commands in the training mode:
 
 8.3) 3 - complete the training with this group of words
 
-<h3> Author Comments: </ h3>
+<h3> Author Comments: </h3>
 The application is under development.
 
 01/26/2019 At the moment, the application is running in console mode with support for the above commands to work in the latest version.
 
 Expected version with a graphical interface and improved learning algorithms.
 
-<h3> Usage Tips: </ h3>
+<h3> Usage Tips: </h3>
 1) Use frequent and short workouts, for example, 15-20 minutes in the morning and at night (as well as in other free time).
 2) Add movie subtitles - that you want to watch.
 
-<h3> Technologies: </ h3>
+<h3> Technologies: </h3>
 The program is written in the Java programming language. Uses yandex.translate API, and work with files.
 Translated by Yandex.Translate service http://translate.yandex.ru/.
